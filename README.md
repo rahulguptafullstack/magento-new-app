@@ -1,4 +1,4 @@
-# magento-first-app
+# magento-new-app
 This project is setup of magento 2.3.5
 
 # clone the repo
