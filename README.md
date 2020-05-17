@@ -1,12 +1,12 @@
 # magento-first-app
-This repo is setup of magento 2.3.5
+This project is setup of magento 2.3.5
 
 # clone the repo
-git clone https://github.com/sunilgjpr/magento-first-app.git
+git clone https://github.com/rahulguptafullstack/magento-new-app.git
 
-# Copy and Import db from root directory of project DB-Files
-change the db credential according to your.
+# Copy and Import database from DB-Backup folder which is at root directory of project 
+Change the db credential according to your.
 
-# Login credentials
+# Admin Login credentials
 Username: admin
 Password: Pass@123
